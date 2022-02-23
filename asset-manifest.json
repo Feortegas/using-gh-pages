@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%7Busing-gh-pages%7D/static/css/main.073c9b0a.css",
-    "main.js": "/%7Busing-gh-pages%7D/static/js/main.ee2223a3.js",
-    "static/js/787.7bccd639.chunk.js": "/%7Busing-gh-pages%7D/static/js/787.7bccd639.chunk.js",
-    "static/media/logo.svg": "/%7Busing-gh-pages%7D/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/%7Busing-gh-pages%7D/index.html",
-    "main.073c9b0a.css.map": "/%7Busing-gh-pages%7D/static/css/main.073c9b0a.css.map",
-    "main.ee2223a3.js.map": "/%7Busing-gh-pages%7D/static/js/main.ee2223a3.js.map",
-    "787.7bccd639.chunk.js.map": "/%7Busing-gh-pages%7D/static/js/787.7bccd639.chunk.js.map"
+    "main.css": "/using-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/using-gh-pages/static/js/main.ee4dc7b5.js",
+    "static/js/787.7bccd639.chunk.js": "/using-gh-pages/static/js/787.7bccd639.chunk.js",
+    "static/media/logo.svg": "/using-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/using-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/using-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.ee4dc7b5.js.map": "/using-gh-pages/static/js/main.ee4dc7b5.js.map",
+    "787.7bccd639.chunk.js.map": "/using-gh-pages/static/js/787.7bccd639.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ee2223a3.js"
+    "static/js/main.ee4dc7b5.js"
   ]
 }
